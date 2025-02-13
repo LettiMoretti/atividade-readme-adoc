@@ -1,6 +1,6 @@
 = 📝 Booky - Sistema de Gerenciamento de Biblioteca
 :toc:
-:toc-title: Table of Contents
+:toc-title: Sumário do conteúdo
 :toclevels: 2
 
 == 🎯 Sobre o Projeto
